@@ -10,7 +10,7 @@
 ### :man_technologist: About Me 
 Hi! I'm Filcher, my real name is Philip. I program in Python and C++. I want to become a Full-Stack programmer and am developing in this direction. Over the years, I have tried to create games, write my own interpreters, websites, GUI applications and much more
 - :telescope: I create GUI applications, websites and telegram bots
-- :zap: In my free time I watch movies and play games.
+- :zap: In my free time I watch movies, play games and develop [FavoRit Code](https://github.com/filcherock/FavoRit-Code).
 - :information_source: My project -> [click](https://github.com/filcherock/my-project-info)
 - :mailbox: You can contact me via telegram -> @filcherock
 
