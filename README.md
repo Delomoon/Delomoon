@@ -1,10 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/delomoon">Delomoon</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/4b/26/1f/4b261f5fe2a4dbb63e7db5a40622dc99.gif" width="800" height="400"/>
-</div>
-
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8648B0&text=Delomoon&reversal=false&fontColor=FFFFFF&desc=Welcome%20to%20my%20GitHub%20💕&fontAlign=50"/> 
 
 ### :man_technologist: About Me 
 Hi! I'm Delomoon, my real name is Philip. I program in Python and C++. I want to become a Full-Stack programmer and am developing in this direction. Over the years, I have tried to create games, write my own interpreters, websites, GUI applications and much more
