@@ -1,5 +1,4 @@
-<p align="center"><img src="ghostTransperent.png" alt="filcher badge" width=100px></p>
-<h1 align="center">Hi there, I'm <a href="https://github.com/filcherock">FILCHER</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/delomoon">Delomoon</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/4b/26/1f/4b261f5fe2a4dbb63e7db5a40622dc99.gif" width="800" height="400"/>
@@ -8,11 +7,11 @@
 ---
 
 ### :man_technologist: About Me 
-Hi! I'm Filcher, my real name is Philip. I program in Python and C++. I want to become a Full-Stack programmer and am developing in this direction. Over the years, I have tried to create games, write my own interpreters, websites, GUI applications and much more
+Hi! I'm Delomoon, my real name is Philip. I program in Python and C++. I want to become a Full-Stack programmer and am developing in this direction. Over the years, I have tried to create games, write my own interpreters, websites, GUI applications and much more
 - :telescope: I create GUI applications, websites and telegram bots
-- :zap: In my free time I watch movies, play games and develop [FavoRit Code](https://github.com/filcherock/FavoRit-Code).
+- :zap: In my free time I watch movies, play games and develop [FavoRit Code](https://github.com/filcherock/FavoRit-Code) and [Recap Code](https://github.com/Neefko/recapForVScode).
 - :information_source: My project -> [click](https://github.com/filcherock/my-project-info)
-- :mailbox: You can contact me via telegram -> @filcherock
+- :mailbox: You can contact me via telegram -> @delomoon
 
 #### My device
 ``` bash
@@ -21,7 +20,7 @@ Core: Intel Core I5-12450H
 Videocard: NVIDIA GeForce RTX 3050 Laptor
 RAM: 8gb
 OS: Windows 11, Arch Linux
-My Favourite IDE: Visual Studio Code
+My Favourite IDE: Visual Studio Code, FavoRit Code
 ```
 
 ---
