@@ -9,14 +9,12 @@ Hi! I'm Delomoon, my real name is Philip. I program in Python and C++. I want to
 
 #### My device
 ``` bash
-Laptor (Thunderobot 911 Air XS D)
-├ CPU: Intel Core I5-12450H
-├ GPU: NVIDIA GeForce RTX 3050 Laptor
-├ RAM: 8 GB
-├ ROM: 256 GB
+Laptor (Gigabyte Gaming A16 GA6H)
+├ CPU: Intel Core I7-13620H
+├ GPU: NVIDIA GeForce RTX 4050 Laptor
+├ RAM: 16 GB
+├ ROM: 1024 GB
 └ OS: Windows 11, Arch Linux
-
-P.S: There will be an update soon :)
 ```
 
 ---
