@@ -14,7 +14,7 @@ Laptor (Gigabyte Gaming A16 GA6H)
 ├ GPU: NVIDIA GeForce RTX 4050 Laptor
 ├ RAM: 16 GB
 ├ ROM: 1024 GB
-└ OS: Windows 11, Arch Linux
+└ OS: Windows 11, Linux Mint (WM: bspwm)
 ```
 
 ---
