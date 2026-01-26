@@ -71,7 +71,5 @@ Laptor (Gigabyte Gaming A16 GA6H)
 ---
 
 ### :robot: Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filcherock&theme=react&border_radius=10&card_width=800)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filcherock&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filcherock&show_icons=true&theme=tokyonight)](https://github.com)
-[![Awards](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delomoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delomoon&show_icons=true&theme=tokyonight)](https://github.com)
